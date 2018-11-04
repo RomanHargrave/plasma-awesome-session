@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export KDEWM=awesome
+
+/usr/bin/startkde
+
+# Thats it. Unlike the i3 method, awesome can be configured to handle the plasma wallpapers.

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Plasma (awesome)
+Comment=Plasam
+TryExec=/usr/bin/startkde-awesome
+Exec=/usr/bin/startkde-awesome
+Type=Application
+Icon=/usr/share/pixmaps/awesome.xpm
+Keywords=Window manager
